@@ -6,26 +6,25 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+title: Starfruit Lab
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Starfruit Lab
 
-description: Stylish Jekyll Theme
+description: Starfruit Lab
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Starfruit Lab
+  email: dhouse95.dh@gmail.com
+  github: 
+  twitter: 
+  pinterest: 
+  linkedin: 
+  bio: Cool
+  email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html

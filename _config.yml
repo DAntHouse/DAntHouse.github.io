@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Starfruit Lab
+      title: David House
 
 description: 
 author:

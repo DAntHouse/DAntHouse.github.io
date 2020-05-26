@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-title: David House
+title: Starfruit Lab
 
 defaults:
   -
@@ -17,13 +17,13 @@ defaults:
 
 description: 
 author:
-  name: Starfruit Lab
+  name: David House
   email: dhouse95.dh@gmail.com
   github: 
   twitter: 
   pinterest: 
   linkedin: 
-  bio: Starfruit Lab is the home for all my projects ranging from electromagnetics to microcontrollers.
+  bio: This is the home for all my projects ranging from electromagnetics to microcontrollers.
   email_md5: 
 
 rss_path: 

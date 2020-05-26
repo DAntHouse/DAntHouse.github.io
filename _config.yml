@@ -6,18 +6,18 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-title: Starfruit Lab
+title: David House
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: David House
+      title: Starfruit Lab
 
 description: 
 author:
-  name: David House
+  name: Starfruit Lab
   email: dhouse95.dh@gmail.com
   github: 
   twitter: 

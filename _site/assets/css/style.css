@@ -2,7 +2,7 @@
 
 body{
 <<<<<<< HEAD
-	color: #888888;
+	color: #000;
 =======
 	color: #008080;
 >>>>>>> bc26934cfe4b60cf4e44ab6a06475130d30e0601
@@ -86,7 +86,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #008080;
+	color: #044;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -107,8 +107,8 @@ article{
 
 .post-date {
 	text-transform: uppercase;
-	font-size: 14px;
-	letter-spacing: 3px;
+	font-size: 16px;
+	letter-spacing: 2px;
 }
 
 article {
@@ -127,20 +127,20 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #808080;
+	color: #000;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #808080;
+	color: #000;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #808080;
+	color: #000;
 }
 
 .author .author-image {
@@ -155,7 +155,7 @@ footer {
 
 /* nav-vertical-tabs component */
 .nav-tabs-vertical {
-    border-right: 1px solid #ddd;
+    border-right: 1px solid #000;
 }
 
 .nav-tabs-vertical li {
@@ -163,10 +163,10 @@ footer {
 }
 
 .nav-tabs-vertical>li.active>a, .nav-tabs-vertical>li.active>a:hover, .nav-tabs-vertical>li.active>a:focus {
-    color: #555;
+    color: #000;
     cursor: default;
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #EEE;
+    border: 2px solid #000;
     border-right-color: transparent;
 }
 

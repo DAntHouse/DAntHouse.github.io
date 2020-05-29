@@ -17,16 +17,16 @@ defaults:
 
 description: 
 author:
-  name: David House
+  name: David A. House
   email: dhouse95.dh@gmail.com
-  github: 
+  github: DAntHouse
   twitter: 
   pinterest: 
-  linkedin: 
+  linkedin: david-house-46b454106
   bio: This is the home for all my projects ranging from electromagnetics to microcontrollers.
   email_md5: 
 
-rss_path: 
+rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
